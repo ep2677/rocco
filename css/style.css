@@ -106,7 +106,9 @@ nav a {
 }
 .hours p {
   margin: 0 20px;
-  font-size: 1em;
+  font-size: .975em;
+  line-height: 37px;
+  text-align: center;
 }
 .hours h2 {
   text-align: center;
